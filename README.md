@@ -5,8 +5,8 @@ Hope you like my project !! And as it is not responsive it works well in laptop 
 
 
 ## Technologies Used
-  - HTML - Hyper Text Markup Language
-  - CSS - Cascadeing Style Sheet
+  - HTML
+  - CSS
   
 
 ## Demo
