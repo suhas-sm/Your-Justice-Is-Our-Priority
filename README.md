@@ -4,7 +4,7 @@ This is basically a one pager webpage for an imaginary company that provides jui
 Hope you like my project !! And as it is not responsive it works well in laptop screen and please zoom in in case of other device.
 
 
-## 🛠 Technologies Used
+## Technologies Used
   - HTML - Hyper Text Markup Language
   - CSS - Cascadeing Style Sheet
   
@@ -27,11 +27,6 @@ Go to the project directory
 ```bash
   cd Your-Justice-Is-Our-Priority
 ```
-## Author and Contact
-- [Find-coder](https://www.findcoder.io/u/suhas_sm)
-    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suhas.melmuri)
-    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_suhas_sm/)
-
 ## Features
 
 - Modern Typical webpage design
