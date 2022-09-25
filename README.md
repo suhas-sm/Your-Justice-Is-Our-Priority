@@ -1,4 +1,4 @@
-# Your-Justise-is-our-top-priority [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)]
+# Your-Justise-is-our-top-priority
 
 This is basically a one pager webpage for an imaginary company that provides juistise to thier customers. The project made in HTML/CSS.
 Hope you like my project !! And as it is not responsive it works well in laptop screen and please zoom in in case of other device.
